@@ -1,0 +1,6 @@
+Cocinero-1 preparó Lubina a la sal (ID 1)
+Cocinero-3 preparó Carne de cerdo a la barbacoa (ID 3)
+Cocinero-2 preparó Filete de ternera (ID 2)
+Cocinero-1 preparó Vieira gratinada (ID 4)
+Cocinero-3 preparó Langosta a la plancha (ID 5)
+Cocinero-2 preparó Gamba a la gabardina (ID 6)
