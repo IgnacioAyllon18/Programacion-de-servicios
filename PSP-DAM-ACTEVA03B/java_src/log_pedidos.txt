@@ -1,6 +1,0 @@
-Cocinero-2 preparo Huevos fritos con chorizo (ID 2)
-Cocinero-1 preparo Calamares (ID 1)
-Cocinero-3 preparo Lentejas (ID 3)
-Cocinero-3 preparo Mejillones al vapor (ID 6)
-Cocinero-2 preparo Guisantes con jamon (ID 4)
-Cocinero-1 preparo Cachopo (ID 5)
